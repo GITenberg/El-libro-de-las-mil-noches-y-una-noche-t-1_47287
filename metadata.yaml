@@ -1,4 +1,5 @@
 _repo: El-libro-de-las-mil-noches-y-una-noche-t-1_47287
+_version: 0.1.0
 contributor:
   commentator:
     agent_name: Gómez Carrillo, Enrique
@@ -20,6 +21,9 @@ contributor:
   - agent_name: Mardrus, Joseph Charles
     gutenberg_agent_id: '44241'
     url: http://www.gutenberg.org/2009/agents/44241
+covers:
+- cover_type: archival
+  image_path: 47287-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -30,6 +34,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47287#El-libro-de-las-mil-noches-y-una-noche-t-1
 gutenberg_issued: '2014-11-05'
 gutenberg_type: Text
 identifiers:
